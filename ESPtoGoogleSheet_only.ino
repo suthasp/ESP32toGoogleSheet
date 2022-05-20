@@ -38,7 +38,7 @@ WiFiClientSecure client; //--> Create a WiFiClientSecure object.
 long now = millis();
 long lastMeasure = 0;
 
-String GAS_ID = "AKfycbzR-_4XTIuvUlCx0rEbsZ-_wjMGFOLfF7hPdGN6IxXNAvZQAJCqrHVIpvR4DA4_g15S"; //--> spreadsheet script ID
+String GAS_ID = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"; //--> spreadsheet script ID
 
 //============================================ void setup
 
